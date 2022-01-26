@@ -16,8 +16,7 @@ def run():
 
     global rows , cols
     rows , cols = 3,3
-
-    # game = [["-","-","-"],["-","-","-"],["-","-","-"]]
+    
     global game
     game = []
 
