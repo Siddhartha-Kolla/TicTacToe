@@ -1,9 +1,3 @@
-#################################
-#Python Code by Siddhartha Kolla
-# From 2022
-# My Github Account: https://www.github.com/SiddharthaKolla
-#################################
-
 import pygame as pg
 import time
 from tkinter import *
